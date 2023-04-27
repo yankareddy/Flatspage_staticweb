@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.home-page-bottom {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    padding: 30px;
+}
+
+.home-page-bottom-head {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    color: #f19116;
+    font-size: 25px;
+}
+
+.home-page-bottom-paragraph {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    color: #6c6b70;
+    font-size: 15px;
+}
+
+.home-page-bottom-button {
+    background-color: #f19116;
+    border-radius: 3px;
+    border-width: 0px;
+    color: #ffffff;
+}
+
+.sunrise-avenue {
+    background-color: #222222;
+    background-size: cover;
+    height: 145vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.sunrise-avenue-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.sunrise-avenue-card-image {
+    height: 180px;
+    width: 100px;
+}
+
+.sunrise-avenue-card2 {
+    margin: 10px;
+}
+
+.sunrise-avenue-card-head {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    color: #0f0e46;
+    font-size: 25px;
+}
+
+.sunrise-avenue-card-paragraph {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    color: #6c6b70;
+    font-size: 15px;
+}
+
+.bhk-flat {
+    background-color: #222222;
+    background-size: cover;
+
+}
+
+.bnh-flat-image {
+    height: 250px;
+    width: 450px;
+}
+
+.bhk-flat-card {
+    padding: 20px;
+}
+
+.bnh-flat-image1 {
+    height: 30px;
+    width: 30px;
+}
+
+.bhk-flat-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.home-page-bottom-button1 {
+    background-color: #f19116;
+    border-radius: 3px;
+    border-width: 0px;
+    color: #ffffff;
+    margin: 10px;
+}
